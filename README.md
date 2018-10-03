@@ -8,3 +8,5 @@ modifica
 costante = 25
 
 prova stash
+
+modifica da master per rebasing
