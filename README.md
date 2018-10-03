@@ -5,4 +5,6 @@ modifica
 
 #riga scritta da git hub
 
-aggiunta righe
+costante = 25
+
+prova stash
